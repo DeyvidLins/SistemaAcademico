@@ -1,0 +1,17 @@
+guicurso.InserirCurso$8
+guicurso.InserirCurso$12
+guicurso.InserirCurso$7
+guicurso.InserirCurso$13
+guicurso.InserirCurso$14
+guicurso.InserirCurso$9
+guicurso.InserirCurso$15
+guicurso.InserirCurso$16
+guicurso.InserirCurso$2
+guicurso.InserirCurso$1
+guicurso.InserirCurso$4
+guicurso.InserirCurso$3
+guicurso.InserirCurso$6
+guicurso.InserirCurso$5
+guicurso.InserirCurso$10
+guicurso.InserirCurso$11
+guicurso.InserirCurso
